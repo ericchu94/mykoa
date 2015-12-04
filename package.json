@@ -1,0 +1,19 @@
+{
+  "name": "mykoa",
+  "version": "1.0.0",
+  "description": "my koa website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ericchu94/mykoa.git"
+  },
+  "author": "Eric Chu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericchu94/mykoa/issues"
+  },
+  "homepage": "https://github.com/ericchu94/mykoa#readme"
+}
